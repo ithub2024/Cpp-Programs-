@@ -18,12 +18,13 @@ void sort(vector<int>&a){
         j--;
     }
     }
+}
     void display(vector<int> &a){
-        for(int i=0;i<n;i++){
-            cout<<v[i]<<" ";
+        for(int i=0;i<a.size()-1;i++){
+            cout<<a[i]<<" ";
         }
     }
-}
+
 int main(){
     vector<int>v;
     int n;
