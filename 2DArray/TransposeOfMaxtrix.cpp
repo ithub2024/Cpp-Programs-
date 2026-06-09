@@ -20,7 +20,7 @@ int main(){
 
     // printing of elements
     // for(int j=0;j<n;j++){  // column 
-    //     for(int i=0;i<m;i++){  // rows
+    //     for(int i=0;i<m;i++){   // rows
     //         cout<<arr[i][j]<<" ";
     //     }
     //     cout<<endl;
